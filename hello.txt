@@ -7,6 +7,6 @@ hello git boss is goss!
 hello git boss is goss!   333
 hello git boss is goss!
 hello git boss is goss!
-hello git boss is goss!
 hello git boss is goss! master test
+hello git boss is goss!   hot-fix test
 hello git boss is goss!
